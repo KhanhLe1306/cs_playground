@@ -1,0 +1,15 @@
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/bin/Debug/net6.0/cs_playground
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/bin/Debug/net6.0/cs_playground.deps.json
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/bin/Debug/net6.0/cs_playground.runtimeconfig.json
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/bin/Debug/net6.0/cs_playground.dll
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/bin/Debug/net6.0/ref/cs_playground.dll
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/bin/Debug/net6.0/cs_playground.pdb
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/obj/Debug/net6.0/cs_playground.csproj.AssemblyReference.cache
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/obj/Debug/net6.0/cs_playground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/obj/Debug/net6.0/cs_playground.AssemblyInfoInputs.cache
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/obj/Debug/net6.0/cs_playground.AssemblyInfo.cs
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/obj/Debug/net6.0/cs_playground.csproj.CoreCompileInputs.cache
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/obj/Debug/net6.0/cs_playground.dll
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/obj/Debug/net6.0/ref/cs_playground.dll
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/obj/Debug/net6.0/cs_playground.pdb
+/Users/khanhlee/Desktop/cs_playground/Valid_Parentheses/obj/Debug/net6.0/cs_playground.genruntimeconfig.cache
